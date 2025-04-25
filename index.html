@@ -8,6 +8,41 @@
        crossorigin="anonymous"></script>
     <title>Manic Mugenverse</title>
     <link rel="stylesheet" href="estilos.css" />
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #1d1d1d;
+      }
+      .navbar {
+        background-color: #1d1d1d;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        padding: 10px 20px;
+      }
+      .navbar a {
+        color: #ccc;
+        padding: 14px 16px;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        letter-spacing: 1px;
+      }
+      .navbar a:hover {
+        color: #fff;
+      }
+      .navbar .search-icon {
+        margin-left: auto;
+        color: #888;
+        font-size: 20px;
+        cursor: pointer;
+      }
+      .separator {
+        color: #444;
+        margin: 0 10px;
+      }
+  </style>
   </head>
     
   <body>
@@ -30,6 +65,21 @@
       <h2>¡Bienvenido a Manic Mugenverse!</h2>
       <p>Aquí encontrarás mis videos, personajes, stages y más del mundo M.U.G.E.N / I.K.E.M.E.N.</p>
     </main>
+
+    <div class="navbar">
+      <a href="#">Inicio</a>
+      <span class="separator">/</span>
+      <a href="#">Chars</a>
+      <span class="separator">/</span>
+      <a href="#">Stages</a>
+      <span class="separator">/</span>
+      <a href="#">Games</a>
+      <span class="separator">/</span>
+      <a href="#">Screenpacks</a>
+      <span class="separator">/</span>
+      <a href="#">Requests</a>
+      <span class="search-icon">🔍</span> <!-- Lupa -->
+    </div>
     
     <footer>
       <p>&copy; 2025 Manic Mugenverse</p>
