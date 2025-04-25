@@ -25,7 +25,9 @@
     h1 {
       color: #0077cc;
     }
-
+  </style>
+</head>
+<body>
 body {
   margin: 0;
   background-color: #181818; /* Fondo oscuro */
@@ -61,5 +63,4 @@ body {
 .nav-list a:hover {
   color: white;
 }
-  </style>
-</head>
+</body>
