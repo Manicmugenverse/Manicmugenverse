@@ -4,34 +4,26 @@
   <title>Mi sitio</title>
   <style>
     body {
-      margin: 0;
-      background-color: #181818; /* Fondo oscuro */
       font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      padding: 20px;
     }
-    .navbar {
-      background-color: #1c1c1c;
-      padding: 10px 0;
+    nav {
+      background-color: #333;
+      padding: 10px;
+      margin-bottom: 20px;
     }
-    .nav-list {
-      list-style: none;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 0;
-      padding: 0;
-    }
-    .nav-list li {
-      margin: 0 20px;
-    }
-    .nav-list a {
-      color: #bbb;
-      text-decoration: none;
-      font-weight: bold;
-      letter-spacing: 1px;
-      transition: color 0.3s;
-    }
-    .nav-list a:hover {
+    nav a {
       color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    h1 {
+      color: #0077cc;
     }
   </style>
 </head>
