@@ -1,0 +1,67 @@
+<!DOCTYPE html> <!-- Asi se pone comentarios --> 
+<html lang="es">  
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-adsense-account" content="ca-pub-1768198199827363">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1768198199827363"
+       crossorigin="anonymous"></script>
+    <title>Manic Mugenverse</title>
+    <link rel="stylesheet" href="estilos.css" />
+    
+  </head>
+    
+  <body>
+    <header>
+      <h1>Manic MUGENVERSE</h1>
+    </header>
+
+    <nav>
+        <a href="http://ouo.io/ref/Sq11XgpX">
+            <img src="http://ouo.io/images/banners/r2.jpg" title="ouo.io - Make short links and earn the biggest money" /></a>
+        
+        <div class="navbar">
+          <!-- <span class="separator">/</span>  SEPARAR TODO CON SLASHES (/)-->
+          <ul>
+            <fieldset>
+              <a href="index.html">       <Font Face="arial" Size="3" Color="White"> <b>INICIO</b> </Font> </a>
+              <span class="separator">    <Font Face="arial" Size="3" Color="White"> / </Font> </span>
+              
+              <a href="chars.html">       <Font Face="arial" Size="3" Color="White"> <b>CHARS</b> </Font> </a>
+              <span class="separator">    <Font Face="arial" Size="3" Color="White"> / </Font> </span>
+                
+              <a href="stages.html">      <Font Face="arial" Size="3" Color="White"> <b>STAGES</b> </Font> </a>
+              <span class="separator">    <Font Face="arial" Size="3" Color="White"> / </Font> </span>
+                
+              <a href="games.html">       <Font Face="arial" Size="3" Color="White"> <b>GAMES</b> </Font> </a>
+              <span class="separator">    <Font Face="arial" Size="3" Color="White"> / </Font> </span>
+                
+              <a href="screenpacks.html"> <Font Face="arial" Size="3" Color="White"> <b>SCREENPACKS</b> </Font> </a>
+              <span class="separator">    <Font Face="arial" Size="3" Color="White"> / </Font> </span>
+                
+              <a href="requests.html">    <Font Face="arial" Size="3" Color="White"> <b>REQUESTS</b> </Font> </a>
+            </fieldset>
+          </ul>
+    
+          <!--<a href="index.html">Inicio</a>
+          <a href="chars.html">Chars</a>
+          <a href="stages.html">Stages</a>
+          <a href="games.html">Games</a>
+          <a href="screenpacks.html">Screenpacks</a>
+          <a href="requests.html">Requests</a>-->
+          
+        </div>
+      </nav>
+    
+    <main>
+      <h2>¡Bienvenido a Manic MUGENVERSE!</h2>
+      <p>Aquí encontrarás mis videos, personajes, stages y más del mundo M.U.G.E.N / I.K.E.M.E.N.</p>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Manic Mugenverse</p>
+    </footer>
+    
+  </body>
+</html>
