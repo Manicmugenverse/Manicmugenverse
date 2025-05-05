@@ -52,3 +52,7 @@ a:hover {
     padding: 1rem;
   }
 }
+
+.align-left {
+  text-align: left;
+}
